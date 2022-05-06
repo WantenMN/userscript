@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         some implementations on bilibili
-// @namespace    some implementations on bilibili
+// @namespace    https://greasyfork.org/en/scripts/444568
 // @version      0.01
-// @description  some implementations on bilibili
+// @description  This script is for bilibili, it contains some auxiliary functions
 // @author       Wanten
 // @copyright    2022 Wanten
 // @supportURL   https://github.com/WantenMN/userscript/issues
